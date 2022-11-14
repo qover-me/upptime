@@ -3,8 +3,6 @@ owner: qover-me # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Qover
     url: https://www.qover.com
 status-website:
@@ -19,8 +17,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
