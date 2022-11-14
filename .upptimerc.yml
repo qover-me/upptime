@@ -22,7 +22,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Qover
   introTitle: "**Qover** monitor and status page."
   introMessage: We continuously monitor Qover.com and all its services. If there are any performance or service interruptions, an update will be posted here.
   navbar:
