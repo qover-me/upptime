@@ -17,12 +17,10 @@ sites:
     url: $TENANT_API
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.qover.com
-  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/qover-me/upptime/master/assets/logo-qover.svg
   name: ""
+  favicon: https://raw.githubusercontent.com/qover-me/upptime/master/assets/favicon_q.png
   introTitle: "**Qover** monitor and status page."
   introMessage: We continuously monitor Qover.com and all its services. If there are any performance or service interruptions, an update will be posted here.
   navbar:
