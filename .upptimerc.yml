@@ -15,6 +15,8 @@ sites:
     url: $EYEWEAR_API
   - name: Home insurance API
     url: $TENANT_API
+  - name: Policy API
+    url: $POLICY_API
 
 status-website:
   cname: status.qover.com
