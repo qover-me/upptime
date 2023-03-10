@@ -4,9 +4,9 @@
     "url": "https://www.qover.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.qover.com.ico",
     "slug": "qover-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 266,
     "timeMonth": 240,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-10": 0
+    }
   },
   {
     "name": "Bike insurance API",
