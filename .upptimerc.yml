@@ -11,8 +11,6 @@ sites:
     url: $IAB_API
   - name: Claims API
     url: $CLAIMS_API
-  - name: EyeWear insurance API
-    url: $EYEWEAR_API
   - name: Home insurance API
     url: $TENANT_API
   - name: Policy API
