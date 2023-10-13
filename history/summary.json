@@ -62,9 +62,9 @@
     "slug": "claims-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 105,
@@ -72,7 +72,7 @@
     "timeMonth": 137,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2023-10-12": 170
+      "2023-10-13": 10
     }
   },
   {
