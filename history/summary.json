@@ -4,18 +4,19 @@
     "url": "https://www.qover.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.qover.com.ico",
     "slug": "qover-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 257,
-    "timeDay": 596,
-    "timeWeek": 257,
-    "timeMonth": 238,
+    "timeDay": 377,
+    "timeWeek": 252,
+    "timeMonth": 237,
     "timeYear": 257,
     "dailyMinutesDown": {
+      "2023-11-05": 0,
       "2023-03-10": 25
     }
   },
