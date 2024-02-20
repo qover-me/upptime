@@ -1,7 +1,7 @@
 url: $TENANT_API
 status: up
 code: 200
-responseTime: 100
-lastUpdated: 2024-02-19T23:01:32.997Z
+responseTime: 95
+lastUpdated: 2024-02-20T23:01:49.574Z
 startTime: 2022-11-14T08:23:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
