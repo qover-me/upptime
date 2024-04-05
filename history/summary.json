@@ -6,9 +6,9 @@
     "slug": "qover-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
     "timeDay": 146,
@@ -16,7 +16,6 @@
     "timeMonth": 257,
     "timeYear": 263,
     "dailyMinutesDown": {
-      "2024-04-04": 6,
       "2023-11-06": 14,
       "2023-11-05": 3
     }
