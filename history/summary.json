@@ -25,18 +25,20 @@
     "url": "$BIKE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bike-insurance-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 257,
-    "timeWeek": 241,
-    "timeMonth": 247,
+    "timeDay": 293,
+    "timeWeek": 252,
+    "timeMonth": 250,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-17": 0
+    }
   },
   {
     "name": "Motor insurance API",
