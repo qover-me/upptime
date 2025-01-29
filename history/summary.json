@@ -22,19 +22,19 @@
     "url": "$BIKE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bike-insurance-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 303,
-    "timeWeek": 306,
-    "timeMonth": 305,
+    "time": 271,
+    "timeDay": 320,
+    "timeWeek": 310,
+    "timeMonth": 306,
     "timeYear": 275,
     "dailyMinutesDown": {
-      "2025-01-29": 1
+      "2025-01-29": 4
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$IAB_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "motor-insurance-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 115,
-    "timeWeek": 111,
-    "timeMonth": 129,
+    "timeDay": 108,
+    "timeWeek": 110,
+    "timeMonth": 128,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 3
     }
   },
   {
