@@ -1,7 +1,7 @@
 url: $IAB_API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-29T04:56:19.401Z
+status: up
+code: 200
+responseTime: 101
+lastUpdated: 2025-01-29T04:58:57.307Z
 startTime: 2022-11-14T08:23:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
