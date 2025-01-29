@@ -1,7 +1,7 @@
 url: $BIKE_API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-29T04:55:02.779Z
+status: up
+code: 200
+responseTime: 337
+lastUpdated: 2025-01-29T04:58:54.811Z
 startTime: 2022-11-14T08:23:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
